@@ -4,6 +4,10 @@
 
 ### 2. Now your whole page is editable :sweat_smile:
 
+### 3. Click again
+
+### 4. Now it's not! :sweat_smile:
+
 ---
 
 Using
