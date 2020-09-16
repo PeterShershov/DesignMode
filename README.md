@@ -10,5 +10,5 @@
 
 ---
 
-Using
+Basically a one liner that toggles
 [`document.designMode` ⬅️](https://developer.mozilla.org/en-US/docs/Web/API/Document/designMode)
